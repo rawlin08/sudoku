@@ -1,0 +1,35 @@
+header {
+    text-align: center;
+}
+
+main {
+    text-align: center;
+}
+
+.container {
+    display: grid;
+    width: 31.25em;
+    height: 31.25em;
+    border: 8px solid #808080;
+    margin: 0 auto;
+}
+
+.outerGrid {
+    border: 2px solid #808080;
+}
+
+.innerGrid {
+    border: 1px solid #808080;
+}
+
+.difficulty {
+    margin: 1.25em;
+}
+
+.buttons {
+    margin: 1.25em;
+}
+
+.gridclear {
+    background-color: #FFFFFF;
+}
